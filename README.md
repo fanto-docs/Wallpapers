@@ -11,3 +11,7 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/fanto-docs/Wallpapers/blob/main/Wallpaper%20Fanto%20Docs.png">
+</p>
